@@ -1,0 +1,9 @@
+name: Trans
+version: ${project.version}
+main: net.tererun.plugin.trans.trans.Trans
+api-version: 1.13
+authors: [tererun]
+description: Trans
+commands:
+  tl:
+    description: tl
